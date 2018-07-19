@@ -25,8 +25,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class Insert_into {
 	public static void main(String[] args) throws IOException {
 
-
-
 		// File location
 
 		String path = new File("src").getAbsolutePath();
