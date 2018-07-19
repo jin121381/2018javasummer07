@@ -30,8 +30,6 @@ public class Insert_into {
 		// File location
 
 		String path = new File("src").getAbsolutePath();
-
-
 		String fileName = path + "/orde.xlsx";
 
 		
