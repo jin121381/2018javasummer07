@@ -182,22 +182,11 @@ public class Insert_into {
 
 
 		inputWorkbook.close();
-
-		
-
 		for (Order order : orderList) {
 
 			System.out.println(order.toString());
 
 		}
-
-            
- 
-
-		
-
-		
-
 	}
 
 }
